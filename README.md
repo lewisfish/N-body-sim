@@ -20,3 +20,10 @@ In use:
 
 - pygame
 - numpy
+
+## ToDo
+
+- better integration method
+- Implement Barnes-Hut
+- Optimisations
+- cmd line options
